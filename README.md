@@ -52,7 +52,7 @@
 <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/andre-figueiredo06" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-figueiredo06" height="30" width="40" /> </a>
     <a href="https://instagram.com/andrefmrib" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrefmrib" height="30" width="40" /> </a>
-    <a href="https://discord.gg/Dézin#3079" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dézin#3079" height="30" width="40" /> </a>
+    <a href="https://discordapp.com/users/309102602216538132" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dézin#3079" height="30" width="40" /> </a>
 
 
 
