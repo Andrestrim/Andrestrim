@@ -1,15 +1,14 @@
 <div align="center">
   <h1> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm André Ribeiro</h1>
-  <h3>You have somehow discovered my Github profile.</h3>
-  <p>I'm still working on developing my github and linkedin profiles, but feel free to take a look. </p>
+  <h3>I'm a Front-End developer with 2 years of experience as a freelance, currently living in Rio de Janeiro, Brazil</h3>
   <h1></h1>
 </div>
   
-  - 🌱 I’m currently pursuing BS from [Estácio](https://estacio.br/)
+  - 🌱 Bachelor in IS from [Estácio](https://estacio.br/)
 
   - 🔭 Check out my freeCodeCamp [profile](https://www.freecodecamp.org/Andrestrim)
   
-  - 👨‍💻 I’m currently learning **Typescript** and **Adonis**
+  - 👨‍💻 On a continuous learning journey
 
 <table><tr>
   <td valign="top" width="33%">
