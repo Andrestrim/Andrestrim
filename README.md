@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm André Ribeiro</h1>
-  <h3>I'm a Front-End developer with 2 years of experience as a freelance, currently living in Rio de Janeiro, Brazil</h3>
+  <h3>I'm a Full Stack developer with 2 years of experience, currently living in Rio de Janeiro, Brazil</h3>
   <h1></h1>
 </div>
   
@@ -25,8 +25,9 @@
   <td valign="top" width="33%">
     <h3 align="center">Frontend Development</h3>
       <p align="center"> 
-        <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-        <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+        <a href="https://vuejs.org/"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" width="40" height="40"/> </a>
+        <a href="https://react.dev/"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="40" height="40"/> </a>
+        <a href="https://nextjs.org/"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Nextjs" width="40" height="40"/> </a>
       </p>
     <h3 align="center">Other</h3>
       <p align="center"> 
@@ -39,6 +40,7 @@
       <p align="center"> 
         <a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
         <a href="https://adonisjs.com/" > <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" alt="adonisjs" width="40" height="40"/> </a> 
+        <a href="https://expressjs.com/" > <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="expressjs" width="40" height="40"/> </a> 
       </p>
     <h3 align="center">Database</h3>
       <p align="center"> 
